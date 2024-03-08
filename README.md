@@ -19,6 +19,10 @@ Let's enjoy the power of large models~
 2. Language Models are Unsupervised Multitask Learners (GPT-2)
 3. Language Models are Few-Shot Learners (GPT-3)
 
+## 提示学习/工程
+
+## RAG
+
 ## 微调大模型
 
 ## 微调技术
