@@ -1,0 +1,2 @@
+# Large_Model_Project_Collection
+这个 repository 用于收集整理学习大模型时阅读的论文和技术报告。
