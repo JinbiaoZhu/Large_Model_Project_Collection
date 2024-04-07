@@ -35,6 +35,10 @@ Let's enjoy the power of large models~
 
 1. BLEU: a Method for Automatic Evaluation of Machine Translation
 
+## 外部联系
+
+1. Survey on Large Language Model-Enhanced Reinforcement Learning: Concept, Taxonomy, and Methods
+
 ## 自己的
 
 1. 干货_深度神经网络中的计算和内存带宽
