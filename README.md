@@ -21,6 +21,8 @@ Let's enjoy the power of large models~
 
 ## 提示学习/工程
 
+1. Structured Chain-of-Thought Prompting for Code Generation (CoT + Software Engineering)
+
 ## RAG
 
 ## 微调大模型
@@ -37,7 +39,7 @@ Let's enjoy the power of large models~
 
 ## 外部联系
 
-1. Survey on Large Language Model-Enhanced Reinforcement Learning: Concept, Taxonomy, and Methods
+1. Survey on Large Language Model-Enhanced Reinforcement Learning: Concept, Taxonomy, and Methods (LLM + RL)
 
 ## 自己的
 
