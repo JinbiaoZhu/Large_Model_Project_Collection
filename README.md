@@ -22,6 +22,7 @@ Let's enjoy the power of large models~
 ## 提示学习/工程
 
 1. Structured Chain-of-Thought Prompting for Code Generation (CoT + Software Engineering)
+2. Understanding the planning of LLM agents: A survey (LLM planning + Survey)
 
 ## RAG
 
