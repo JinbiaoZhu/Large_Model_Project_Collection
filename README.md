@@ -23,6 +23,7 @@ Let's enjoy the power of large models~
 
 1. Structured Chain-of-Thought Prompting for Code Generation (CoT + Software Engineering)
 2. Understanding the planning of LLM agents: A survey (LLM planning + Survey)
+3. Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models (LLM planning)
 
 ## RAG
 
