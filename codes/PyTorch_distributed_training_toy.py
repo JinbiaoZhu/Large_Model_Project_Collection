@@ -18,7 +18,7 @@ def setup(rank, world_size):
     os.environ['MASTER_PORT'] = '12355'
 
     # initialize the process group
-    dist.init_process_group("gloo", rank=rank, world_size=world_size)
+    dist.init_process_group("nccl", rank=rank, world_size=world_size)
     
 
 def cleanup():
@@ -171,8 +171,14 @@ def run_demo(demo_fn, world_size):
 
 
 if __name__ == "__main__":
-    run_demo(demo_fn=demo_model_parallel,
+    run_demo(demo_fn=demo_basic,
              world_size=torch.cuda.device_count())
+
+    # run_demo(demo_fn=demo_checkpoint,
+    #          world_size=torch.cuda.device_count())
+
+    # run_demo(demo_fn=demo_model_parallel,
+    #         world_size=torch.cuda.device_count())
 
 
 
